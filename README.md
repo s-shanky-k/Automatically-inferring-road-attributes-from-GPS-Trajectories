@@ -1,7 +1,7 @@
 # Automatically Inferring Road Attributes from GPS Trajectories
 A method to automatically derive road attributes by analysing and mining movement trajectories (e.g. GPS trajectories). Movement trajectories can be used to automatically derive attribute data in maps.  
 
-The repositary contains code for deriving the average speed, speed limit and whether the road is one-way or two-way.  
+The repositary contains code for deriving the **average speed, speed limit and one-way/two-way** attributes of the road.  
 The research paper *by Karl van Winden* based of which this code was developed can be found [here](http://doi.org/10.1111/tgis.12186)
 
 ## Input
