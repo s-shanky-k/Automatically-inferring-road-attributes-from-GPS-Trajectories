@@ -12,7 +12,12 @@ The data used to built the code was from the Chicago taxi data set.
 A [sample text file](sample.txt) is part of the repositary 
 
 ## Running the code
-The repositary contains a jupyter notebook as well as a python script.
+The repositary contains a jupyter notebook.  
+Run all the cells to get the ouput.
+
+### Using Custom Input Data
+Modify the read_csv command in the second cell of the jupyter notebook
+`df = pd.read_csv("file_name.txt",sep=",",header = None)`
 
 ## Output
 The code will output a CSV file which is of the format:  
