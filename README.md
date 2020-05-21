@@ -19,4 +19,4 @@ The code will output a CSV file which is of the format:
 `Road Name , Oneway	, Average_speed_similar	, Average_speed_opp	, Speed Limit	, Count	Mean_velocity	, Highspeed_mean`  
 
 The dataframe of the same can be viewed in the jupyter note book  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Output Data Frame")
+![alt text](Output/road_attributes_output.png "Output Data Frame")
