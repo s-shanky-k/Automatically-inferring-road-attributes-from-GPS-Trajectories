@@ -1,1 +1,1 @@
-# Automatically-inferring-road-attributes-from-GPS-Trajectories-
+# Automatically Inferring Road Attributes from GPS Trajectories
