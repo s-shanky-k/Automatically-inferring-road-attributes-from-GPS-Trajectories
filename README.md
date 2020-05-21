@@ -8,12 +8,14 @@ The research paper *by Karl van Winden* based of which this code was developed c
 The input is a text file which is in the following format: `id,latitude,longitude,timestamp`   
 Timestamp in the format: `yyyy-mm-dd hh:mm:ss+03 angle`  
 
-The data used to built the code was from the Chicago taxi data set.
+The data used to built the code was from the Chicago taxi data set.  
 A [sample text file](sample.txt) is part of the repositary 
 
 ## Running the code
-The repositary contains a jupyter notebook.  
-Run all the cells to get the ouput.
+The repositary contains a [jupyter notebook](Automatically inferring road attributes from GPS Trajectories v1.0.ipynb).  
+Run all the cells to get the ouput.  
+
+The repositary also contains a [script](Improved Script to Calculate the mean heading and Oneway attribute without map matching.ipynb) for a more accurate method of determining the oneway/two road attribute without map matching
 
 ### Using Custom Input Data
 Modify the read_csv command in the second cell of the jupyter notebook  
