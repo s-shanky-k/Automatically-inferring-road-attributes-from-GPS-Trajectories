@@ -16,7 +16,7 @@ The repositary contains a jupyter notebook.
 Run all the cells to get the ouput.
 
 ### Using Custom Input Data
-Modify the read_csv command in the second cell of the jupyter notebook
+Modify the read_csv command in the second cell of the jupyter notebook  
 `df = pd.read_csv("file_name.txt",sep=",",header = None)`
 
 ## Output
