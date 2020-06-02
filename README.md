@@ -8,7 +8,7 @@ The research paper *by Karl van Winden* whose concepts are used in this code can
 The input is a text file which is in the following format: `id,latitude,longitude,timestamp`   
 Timestamp in the format: `yyyy-mm-dd hh:mm:ss+03 angle`  
 
-The data used to built the code was from the Chicago taxi data set.  
+The data used to test the code was from the Chicago taxi data set.  
 A [sample text file](sample.txt) is part of the repositary 
 
 ## Running the code
