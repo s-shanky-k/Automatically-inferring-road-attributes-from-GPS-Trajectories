@@ -23,7 +23,7 @@ Modify the read_csv command in the second cell of the jupyter notebook
 
 ## Output
 The code will output a CSV file which is of the format:  
-`Road Name , Oneway	, Average_speed_similar	, Average_speed_opp	, Speed Limit	, Count	Mean_velocity	, Highspeed_mean`  
+`Road Name , Oneway	, Average_speed_similar	, Average_speed_opp	, Speed Limit	, Count	, Mean_velocity	, Highspeed_mean`  
 
 The dataframe of the same can be viewed in the jupyter note book  
 ![alt text](Output/road_attributes_output.png "Output Data Frame")
